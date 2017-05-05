@@ -22,8 +22,47 @@ body {
 header {
     text-align: center;
     font-family: 'Inknut Antiqua', serif;
-    line-height: 25px
+    line-height: 25px;
+    text-shadow: 3px 3px black
 }
+
+footer {
+    text-align: center;
+    font-family: 'Inknut Antiqua', serif;
+    line-height: 25px;
+    text-shadow: 3px 3px black
+}
+
+section {
+    width: auto;
+    height: auto;
+    overflow: auto;
+    padding: 5px;
+    font-size: 1.1em;
+    text-shadow: 1px 1px black;
+
+}
+
+
+#image {
+    float: left;
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    margin: 30px;
+    margin-left: 15px;
+    box-shadow: 3px 3px black
+}
+
+
+a {
+    color: darkkhaki
+}
+a:visited {
+    color: grey
+
+}
+
 
 
 
