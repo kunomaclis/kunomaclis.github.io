@@ -1,7 +1,30 @@
-body, html {
+html {
+    background-color: #3d4551;
+    background: -webkit-linear-gradient(#3d4551, #3d1111); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#3d4551, #3d1111); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#3d4551, #3d1111); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#3d4551, #3d2222); /* Standard syntax */ 
     margin: 0;
     padding: 0;
+    height: 100%;
+    color: #b73c4c
 }
+
+body {
+    margin: 25px;
+    padding: 25px;
+    height: auto;
+    width: auto;
+    background-color: #252525;
+    border-radius: 10px
+}
+
+header {
+    text-align: center;
+    font-family: 'Inknut Antiqua', serif;
+    line-height: 25px
+}
+
 
 
 /*video {
