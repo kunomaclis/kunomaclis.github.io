@@ -202,12 +202,12 @@ a {
 
 #aboutwrap {	
 	background: url(../img/about.jpg) no-repeat center top;
-	margin-top: -70px;
+	margin-top: -200px;
 	padding-top: 250px;
-	text-align:center;
+  text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 550px;
+	min-height: 800px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
